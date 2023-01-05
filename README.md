@@ -233,7 +233,6 @@ export const RatingAndReviewPopup = ({
   const dispatch = useDispatch();
   const [ratingValue, setRatingValue] = useState(0);
   const [review, setReview] = useState("");
-  //update RatingOpen to false when cancel button is clicked
   const handleCancel = () => {
     handleCancelRating();
   };
