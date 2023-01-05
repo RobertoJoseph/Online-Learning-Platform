@@ -1,9 +1,17 @@
 
 # Asyad El Code
 
-<img width="1427" alt="Screenshot 2023-01-05 at 3 44 10 AM" src="https://user-images.githubusercontent.com/67745591/210682774-70d28736-28b6-440f-9c6e-1ff83c134c6b.png">
 
-<img width="1428" alt="Screenshot 2023-01-05 at 3 47 04 AM" src="https://user-images.githubusercontent.com/67745591/210683047-b02758dc-3b76-4851-92b5-8e9207b3cf29.png">
+## Badges
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Redux](https://img.shields.io/badge/Built%20with-Redux-%23f44336?style=for-the-badge)
+
 
 
 
@@ -105,7 +113,15 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 
 ## Screenshots 📗
 
+- #### Home Page
+
+<img width="1427" alt="Screenshot 2023-01-05 at 3 44 10 AM" src="https://user-images.githubusercontent.com/67745591/210682774-70d28736-28b6-440f-9c6e-1ff83c134c6b.png">
+
+<img width="1428" alt="Screenshot 2023-01-05 at 3 47 04 AM" src="https://user-images.githubusercontent.com/67745591/210683047-b02758dc-3b76-4851-92b5-8e9207b3cf29.png">
+
 ### Individual Trainee 
+
+
 
 - #### Sign up and enter their details in a form including first name, last name, email, password and gender.
 
